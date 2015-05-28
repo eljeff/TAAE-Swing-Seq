@@ -2,6 +2,8 @@
 I have simply added 'swing' functionality to the sequencer demo provided.
 Also now works as a universal app instead of just iPad.
 The rest of the README is the same as provided in the original sequencer demo.
+Original available at:
+https://github.com/arielelkin/Sequencer/
 
 # Sequencer
 Example use of the sequencer plugin for [The Amazing Audio Engine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine).
